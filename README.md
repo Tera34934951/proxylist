@@ -1,2 +1,0 @@
-# proxylist
-txt
